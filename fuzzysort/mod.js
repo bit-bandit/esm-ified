@@ -833,7 +833,9 @@ var fastpriorityqueue = function () {
         c = 1 + (e << 1);
     }
     for (
-      var a = e - 1 >> 1; e > 0 && n.score < r[a].score; a = (e = a) - 1 >> 1
+      var a = e - 1 >> 1;
+      e > 0 && n.score < r[a].score;
+      a = (e = a) - 1 >> 1
     ) {
       r[e] = r[a];
     }
@@ -843,7 +845,9 @@ var fastpriorityqueue = function () {
     var n = o;
     r[o++] = e;
     for (
-      var c = n - 1 >> 1; n > 0 && e.score < r[c].score; c = (n = c) - 1 >> 1
+      var c = n - 1 >> 1;
+      n > 0 && e.score < r[c].score;
+      c = (n = c) - 1 >> 1
     ) {
       r[n] = r[c];
     }
