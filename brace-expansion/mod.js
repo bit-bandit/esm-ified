@@ -1,4 +1,4 @@
-const balanced = require("balanced-match");
+import { balanced } from "https://raw.githubusercontent.com/bit-bandit/esm-ified/main/balanced-match/mod.js"
 
 const escSlash = "\0SLASH" + Math.random() + "\0";
 const escOpen = "\0OPEN" + Math.random() + "\0";

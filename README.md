@@ -37,7 +37,7 @@ Deno:
 ```
 import { module } from "module.js"
 ```
-<pre>
+</pre>
 
 4. *Submit a pull request*, with the directory, and ported module.
 
