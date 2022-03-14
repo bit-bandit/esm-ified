@@ -1,6 +1,6 @@
 # fuzzysort
 
-Original author: (farzher)[https://github.com/farzher/] Project repository:
+Original author: [farzher](https://github.com/farzher/) Project repository:
 https://github.com/farzher/fuzzysort
 
 ## Usage

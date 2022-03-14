@@ -39,7 +39,7 @@ import { module } from "module.js"
 ```
 </pre>
 
-4. *Submit a pull request*, with the directory, and ported module.
+4. _Submit a pull request_, with the directory, and ported module.
 
 Here's an example of a tree of what a proper port's directory should look like:
 
@@ -51,8 +51,10 @@ module-name
 ```
 
 <!-- We'll add the original link to ported module, when PR is accepted -->
+
 ## Projects ported:
-* [balanced-match](https://github.com/juliangruber/balanced-match)
-* [brace-expansion](https://github.com/juliangruber/brace-expansion)
-* [fuzzysort](https://github.com/farzher/fuzzysort)
-* [he](https://github.com/mathiasbynens/he)
+
+- [balanced-match](https://github.com/juliangruber/balanced-match)
+- [brace-expansion](https://github.com/juliangruber/brace-expansion)
+- [fuzzysort](https://github.com/farzher/fuzzysort)
+- [he](https://github.com/mathiasbynens/he)

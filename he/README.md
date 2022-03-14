@@ -1,7 +1,7 @@
 # he
 
-Original author: (mathiasbynens)[https://github.com/mathiasbynens] Project
-repository: https://github.com/mathiasbynens/he/
+Original author: [mathiasbynens](https://github.com/mathiasbynens) Project
+Repository: https://github.com/mathiasbynens/he/
 
 ## Usage
 
