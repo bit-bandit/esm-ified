@@ -32,3 +32,8 @@ port-name
   ├── mod.js
   └── README.me
 ```
+
+<!-- We'll add the original link to ported module, when PR is accepted -->
+## Projects ported:
+* [fuzzysort](https://github.com/farzher/fuzzysort) 
+* [he](https://github.com/mathiasbynens/he) 
